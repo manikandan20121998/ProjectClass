@@ -9,7 +9,7 @@ public class SampleTest2 {
 	
 		
 		
-		System.out.println("manimaddy");
+		
 	}
 
 }
