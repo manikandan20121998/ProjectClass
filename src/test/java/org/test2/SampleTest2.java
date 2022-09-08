@@ -7,6 +7,11 @@ public class SampleTest2 {
 	System.out.println("kumar");
 	System.out.println("end");
 	
+	System.out.println("next");
+	
+	
+	
+	System.out.println("vajraa");
 	
 	
 	
